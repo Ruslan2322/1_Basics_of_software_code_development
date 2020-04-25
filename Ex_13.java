@@ -2,7 +2,7 @@ package Lesson1;
 
 
 import java.util.Scanner;
-// Вычислить значение функции на отрезке [a,b] с шагом h
+//Вычислите значение функции на отрезке [a,b] с шагом h: (Подробности Циклы: задача 2 https://github.com/Java0Tutor/1_Basics_of_software_code_development/blob/master/Practice%20(tasks).pdf)
      public class Ex_13 {
         public static void main(String[] args) {
 
