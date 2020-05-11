@@ -1,4 +1,4 @@
-package Lesson1;
+package Lesson_01;
 import java.util.Scanner;
 
 //Найдите  значение функции: z = ( (a – 3 ) * b / 2) + c.
